@@ -3,7 +3,7 @@
 
 ## I'm a Designer, Developer, Engineer, and Teacher!!
 
-- [<img align="left" alt="QuizMaster Logo" width="18px" src="https://slquizmaster.com/QuizMasterWebSite/images/QuizMasterLogo.png" />] I just launched my first personal app: [QuizMaster][android_app]!
+- <img align="left" alt="QuizMaster Logo" width="18px" src="https://slquizmaster.com/QuizMasterWebSite/images/QuizMasterLogo.png"/> I just launched my first personal app: [QuizMaster][android_app]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
