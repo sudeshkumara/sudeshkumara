@@ -1,4 +1,4 @@
-<img align="left" alt="Sudesh Kumara Github Banner" src="https://drive.google.com/uc?export=download&id=1KXg_A_9ZPRpjvUcbxDAOizoKcbVxvPOM" />
+<img align="left" alt="Sudesh Kumara Github Banner" src="https://drive.google.com/uc?export=download&id=16zS3VJfJwl5CXtPg1yQYVm9yxKrZXHGv" />
 
 
 ## I'm a Designer, Developer, Engineer, and Teacher !!
@@ -10,6 +10,7 @@
 - 🎨   Fun fact: I love to draw and play video games / vollyball
 
 <br />
+
 ### Connect with me:
 
 [<img align="left" alt="Sudesh Kumara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
