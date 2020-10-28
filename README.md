@@ -3,20 +3,19 @@
 
 ## I'm a Designer, Developer, Engineer, and Teacher!!
 
-- <img align="left" alt="QuizMaster Logo" width="18px" src="https://slquizmaster.com/QuizMasterWebSite/images/QuizMasterLogo.png"/> I just launched my first personal app: [QuizMaster][android_app]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- <img align="left" alt="QuizMaster Logo" width="18px" src="https://slquizmaster.com/QuizMasterWebSite/images/QuizMasterLogo.png"/>I just launched my first personal app: [QuizMaster][android_app]!
+- 💻 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other Flutter developes
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play video games / vollyball
+- 🎨 Fun fact: I love to draw and play video games / vollyball
 
 
 ### Connect with me:
 
-
-[<img align="left" alt="Sudesh Kumara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sudesh Kumara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sudesh Kumara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Sudesh Kumara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Sudesh Kumara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
