@@ -1,4 +1,4 @@
-### Hi there, I'm Sudesh Kumara 👋
+<img align="left" alt="Sudesh Kumara Github Banner" src="https://drive.google.com/uc?export=download&id=1KXg_A_9ZPRpjvUcbxDAOizoKcbVxvPOM" />
 
 
 ## I'm a Designer, Developer, Engineer, and Teacher!!
