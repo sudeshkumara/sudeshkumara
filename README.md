@@ -19,6 +19,11 @@
 
 <br /><br />
 
+<img align="left" alt="Sudesh Kumara Github Skill" src="https://drive.google.com/uc?export=download&id=14vamMYE4ZxQApR-MU2S3B1m_6ZUo6pnZ" />
+<br />
+<img align="left" alt="Sudesh Kumara Github Skill" src="https://drive.google.com/uc?export=download&id=1a4f0IzPy7aUmj3-Ta4Lb8dCrXxfa-U3o" />
+
+<br /><br />
 ### Languages and Tools:
 
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][linkedin]
@@ -42,13 +47,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
-<br />
-<br />
-
-
-<img align="left" alt="Sudesh Kumara Github Skill" src="https://drive.google.com/uc?export=download&id=14vamMYE4ZxQApR-MU2S3B1m_6ZUo6pnZ" />
 ---
-
 
 [android_app]: https://play.google.com/store/apps/details?id=com.nsk.quiz_master
 [twitter]: https://twitter.com/sudesh1kumara
