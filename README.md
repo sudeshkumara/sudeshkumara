@@ -1,6 +1,6 @@
 <img align="left" alt="Sudesh Kumara Github Banner" src="https://drive.google.com/uc?export=download&id=16zS3VJfJwl5CXtPg1yQYVm9yxKrZXHGv" />
 
-<br />
+<br/><br/>
 
 ## I'm a Designer, Developer, Engineer, and Teacher !!
 
@@ -10,7 +10,7 @@
 - 🥅   2021 Goals: Contribute more to Open Source projects
 - 🎨   Fun fact: I love to draw and play video games / vollyball
 
-<br />
+<br/>
 
 ### Connect with me:
 
@@ -19,13 +19,13 @@
 [<img align="left" alt="Sudesh Kumara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sudesh Kumara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br /><br />
+<br/><br/>
 
 <img align="left" alt="Sudesh Kumara Github Skill" src="https://drive.google.com/uc?export=download&id=14vamMYE4ZxQApR-MU2S3B1m_6ZUo6pnZ" />
-<br />
+<br/>
 <img align="left" alt="Sudesh Kumara Github Skill" src="https://drive.google.com/uc?export=download&id=1a4f0IzPy7aUmj3-Ta4Lb8dCrXxfa-U3o" />
 
-<br /><br />
+<br/><br/>
 ### Languages and Tools:
 
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][linkedin]
