@@ -9,7 +9,7 @@
 - 🥅   2021 Goals: Contribute more to Open Source projects
 - 🎨   Fun fact: I love to draw and play video games / vollyball
 
-
+<br /><br />
 ### Connect with me:
 
 [<img align="left" alt="Sudesh Kumara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -17,7 +17,7 @@
 [<img align="left" alt="Sudesh Kumara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sudesh Kumara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
+<br /><br />
 
 ### Languages and Tools:
 
