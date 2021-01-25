@@ -6,10 +6,10 @@
 <br />
 <br />
 
-## I'm a Designer, Developer, Engineer, and Teacher !!
+## I'm a Designer, Developer, Engineer.
 
 - <img align="left" alt="QuizMaster Logo" width="18px" src="https://slquizmaster.com/QuizMasterWebSite/images/QuizMasterLogo.png"/>I just launched my first personal app: [QuizMaster][android_app]!
-- 💻   I’m currently learning everything 🤣
+- 💻   I’m currently working as a software engineer - mobile and learning everything 🤣
 - 👯   I’m looking to collaborate with other Flutter developes
 - 🥅   2021 Goals: Contribute more to Open Source projects
 - 🎨   Fun fact: I love to draw and play video games / vollyball
